@@ -1,3 +1,4 @@
+See the live appliaction - https://manii-m.github.io/covid19_tracker/
 This Project is using https://covid19.mathdro.id/api API to fetch real time corona virus stats. and generate chart visualisation country wise and globally.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
